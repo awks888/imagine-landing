@@ -1,0 +1,12 @@
+
+.container {
+    height: 65.7vh;
+    width: 56vw;
+    background-color: #468A80
+}
+
+.background-svg {
+    width: 100%;
+    height: auto;
+    /* fill: #000000 !important; */
+}

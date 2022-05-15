@@ -1,9 +1,11 @@
 
 .container {
-    height: 65.7vh;
-    width: 56vw;
-    background-color: #468A80
+    aspect-ratio: 1440/766;
+    width: 50%;
+    background-color: #000000;
 }
+
+
 
 .background-svg {
     width: 100%;
